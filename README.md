@@ -3,7 +3,7 @@ This repository contains my CS50p 2022 Problem set solutions. Links for each pro
 
 ## _DISCLAIMER_:
 
-This repository is intended just to share my own solution to the problem sets. Remember that the main goal is to improve your own coding abilities, so first solve the problems by yourself. Copying the code form others is a violation of [__CS50's Academic Honesty Policy__](https://cs50.harvard.edu/python/2022/honesty/). These solutions are for those who have finished the problem sets and want to check for educational purposes, learning experience, and exploring alternative ways to approach problems and is NOT meant for those actively doing the problem sets. 
+This repository is intended just to share my own solution to the problem sets. Remember that the main goal is to improve your own coding abilities, so first solve the problems by yourself. Copying the code from others is a violation of [__CS50's Academic Honesty Policy__](https://cs50.harvard.edu/python/2022/honesty/). These solutions are for those who have finished the problem sets and want to check for educational purposes, learning experience, and exploring alternative ways to approach problems and is NOT meant for those actively doing the problem sets. 
 
 ### - [Week 0: Functions](https://cs50.harvard.edu/python/2022/psets/0/)
 * [Problem Set 0](/pset0)
